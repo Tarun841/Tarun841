@@ -9,6 +9,7 @@ I started learning web development
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sappatarun88@gmail.com](mailto:sappatarun88@gmail.com)
 * 🧠  I'm learning a javascript
+* 👨‍💻  currently I'm working on Memory-Game Project
 
 ### Skills
 
